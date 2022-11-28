@@ -1,6 +1,6 @@
 # Simple Shell Project
 
-We are creating our own shell with C as part of the ALX Software Engineering Programme.
+We are creating our shell with C as part of the ALX Software Engineering Programme.
 
 Task 0: Write a beautiful code that passes the Betty checks
 
